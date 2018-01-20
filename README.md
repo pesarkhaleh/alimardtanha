@@ -1,9 +1,9 @@
-# Tabchi V1.0
-ادیت شده توسط تله گیمر
+# Tabchi V2.0
+ادیت شده توسط حــاج عــلی
 
 ## نحوه نصب
 ```bash
-git clone https://github.com/tabchis/tabchi.git && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
+git clone https://github.com/pesarkhaleh/alimardtanha && cd tabchi && chmod 777 install.sh && chmod 777 telegamer.sh && ./install.sh && lua creator.lua
 ```
 ## ساخت ربات!
 ```
@@ -27,5 +27,5 @@ Run : ./tabchi-0.sh
 برای اتو لانج یا روشن بودن خودکار دستور زیر را وارد کنید در پوشه تبچی
 ./telegamer.sh
 
-#### channel      [te1egamer](https://telegram.me/te1egamer)
+#### channel      [Hajalibotsaz](https://telegram.me/Hajalibotsaz)
 
